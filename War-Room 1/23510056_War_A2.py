@@ -19,6 +19,7 @@ m_heights_series = pd.Series(m_heights)
 
 # Sizes
 num_females = f_heights_series.size
+
 num_males = m_heights_series.size
 total = num_females + num_males
 
